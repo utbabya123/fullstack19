@@ -1,7 +1,7 @@
 import React from 'react';
 import Weather from './Weather'
 
-const Country = ({ country, weather}) => {
+const Country = ({ country }) => {
 
   const { name, capital, population, languages, flag } = country
   
